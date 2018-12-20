@@ -1,0 +1,34 @@
+﻿body {
+    background-color: #0D0303;
+    color: white;
+}
+
+#topnav {
+    display: -webkit-inline-box;
+    vertical-align: top;
+    width: 100%;
+    left: 0;
+    top: 0;
+    background-color: #C41C1C;
+}
+
+.header-tag {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.images {
+    margin-left: 60px;
+}
+
+.buttons {
+}
+
+.underline {
+    text-decoration: underline;
+    color: blue;
+}
+.assignment {
+    background-color: #FFFFF0;
+    color: black;
+}

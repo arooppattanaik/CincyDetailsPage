@@ -1,0 +1,7 @@
+C:\Users\JAGAN\Documents\GitHub\IS7024\IS7024\Cincy\AboutCincy\AboutCincy\bin\AboutCincy.dll.config
+C:\Users\JAGAN\Documents\GitHub\IS7024\IS7024\Cincy\AboutCincy\AboutCincy\bin\AboutCincy.dll
+C:\Users\JAGAN\Documents\GitHub\IS7024\IS7024\Cincy\AboutCincy\AboutCincy\bin\AboutCincy.pdb
+C:\Users\JAGAN\Documents\GitHub\IS7024\IS7024\Cincy\AboutCincy\AboutCincy\obj\Debug\AboutCincy.csprojAssemblyReference.cache
+C:\Users\JAGAN\Documents\GitHub\IS7024\IS7024\Cincy\AboutCincy\AboutCincy\obj\Debug\AboutCincy.csproj.CoreCompileInputs.cache
+C:\Users\JAGAN\Documents\GitHub\IS7024\IS7024\Cincy\AboutCincy\AboutCincy\obj\Debug\AboutCincy.dll
+C:\Users\JAGAN\Documents\GitHub\IS7024\IS7024\Cincy\AboutCincy\AboutCincy\obj\Debug\AboutCincy.pdb
